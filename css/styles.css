@@ -79,3 +79,17 @@ p {
 .carrusel img:hover {
     transform: scale(1.05);
 }
+
+
+.evento {
+    margin-bottom: 30px;
+    padding: 20px;
+    background: #fff;
+    border-left: 5px solid #0199a7;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    border-radius: 6px;
+}
+.evento h3 {
+    color: #0199a7;
+    margin-bottom: 10px;
+}
