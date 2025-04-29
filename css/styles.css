@@ -233,3 +233,18 @@ body {
     border: 1px solid #f5c6cb;
 }
 
+
+.footer {
+    background-color: #0199a7; /* color institucional */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    border-top: 4px solid #017a85;
+    margin-top: 50px;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.1);
+}
+
+.footer p {
+    margin: 8px 0;
+}
